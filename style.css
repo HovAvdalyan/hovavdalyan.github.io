@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue;
+}
+.first{
+	color: black;
+	font-size: 25px
+}
+#first{
+	font-style: italic;
+}
+#second{
+	color: red;
+}
+
+body{
+	background-color: #bdc3ef
+}
+#hov:hover{
+background-color: #12176d;
+color: white;
+}
+.body{
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
